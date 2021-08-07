@@ -1,8 +1,7 @@
-glob
 imageio
 keras
 keras-tuner
-pytorch
 pygan
 tensorflow
 tensorflow-gan
+torch
