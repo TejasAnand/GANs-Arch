@@ -1,2 +1,1 @@
-"# GANs-Arch" 
-"# GANs-Arch" 
+ **GANs-Arch**
